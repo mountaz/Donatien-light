@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- 
+This dataset was extracted from a 2008 version of the lexical network for French called JDM ("Jeux de Mots").
+The latest version of JDM can be retrieved from http://www.jeuxdemots.org/jdm-about.php.
+JDM usage is free of rights.
+-->
+<graphml xmlns='http://graphml.graphdrawing.org/xmlns' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd' >
+<graph id='' edgedefault='directed'>
+<node id='92251077934269'  weight="2198"  id2="107150"  name="bateau"  type="1" />
+<node id='92251300431832'  weight="334"  id2="133563"  name="barque"  type="1" />
+<node id='92250067640947'  weight="708"  id2="38245"  name="voilier"  type="1" />
+<node id='92251130793879'  weight="74"  id2="117258"  name="kayak"  type="1" />
+<node id='92251131227613'  weight="354"  id2="117515"  name="paquebot"  type="1" />
+<node id='92251494394004'  weight="204"  id2="152778"  name="moyen de transport"  type="1" />
+<node id='92250935564150'  weight="236"  id2="93100"  name="capitaine"  type="1" />
+<node id='92249928977316'  weight="635"  id2="30171"  name="navire"  type="1" />
+<node id='92250125447174'  weight="194"  id2="49332"  name="flotte"  type="1" />
+<node id='92251280552107'  weight="54"  id2="129285"  name="d&#233;riveur"  type="1" />
+<node id='92251303381663'  weight="472"  id2="133013"  name="trottoir"  type="1" />
+<node id='92249771770271'  weight="680"  id2="13712"  name="transport"  type="1" />
+<node id='92251163203620'  weight="794"  id2="123745"  name="v&#233;hicule"  type="1" />
+<node id='92249869181251'  weight="58"  id2="19228"  name="optimist"  type="1" />
+<node id='92250492766587'  weight="188"  id2="84319"  name="fr&#233;gate"  type="1" />
+<node id='92251448229479'  weight="426"  id2="143712"  name="marine"  type="1" />
+<node id='92250280070099'  weight="134"  id2="61681"  name="chalutier"  type="1" />
+<node id='92251000308295'  weight="190"  id2="105326"  name="catamaran"  type="1" />
+<node id='92250967040229'  weight="148"  id2="98125"  name="trimaran"  type="1" />
+<node id='92251492422086'  weight="54"  id2="152266"  name="bateau &#224; voile"  type="1" />
+<node id='92251270121277'  weight="88"  id2="127671"  name="embarcation"  type="1" />
+<node id='92251090409794'  weight="54"  id2="109010"  name="remorqueur"  type="1" />
+<node id='92251313205777'  weight="202"  id2="135637"  name="p&#233;trolier"  type="1" />
+<node id='92251632486393'  weight="54"  id2="161444"  name="bateau de plaisance"  type="1" />
+<node id='92251463832205'  weight="3372"  id2="146105"  name="mer"  type="1" />
+<node id='92250301172764'  weight="4045"  id2="65012"  name="eau"  type="1" />
+<node id='92251335270630'  weight="584"  id2="139331"  name="voile"  type="1" />
+<edge id='92258727309231' source='92251492422086' target='92250492766587'  weight="50"  id2="369805"  type="8" />
+<edge id='92258739822059' source='92251492422086' target='92251000308295'  weight="130"  id2="371012"  type="8" />
+<edge id='92258739835224' source='92251492422086' target='92250967040229'  weight="110"  id2="371013"  type="8" />
+<edge id='92258854211573' source='92251492422086' target='92250067640947'  weight="80"  id2="375180"  type="8" />
+<edge id='92259000268432' source='92251492422086' target='92251077934269'  weight="50"  id2="383645"  type="8" />
+<edge id='92256840271007' source='92251448229479' target='92251077934269'  weight="70"  id2="268961"  type="8" />
+<edge id='92256631016598' source='92251163203620' target='92251077934269'  weight="100"  id2="258364"  type="8" />
+<edge id='92256257466553' source='92249771770271' target='92251077934269'  weight="100"  id2="238287"  type="8" />
+<edge id='92256509310655' source='92249771770271' target='92251131227613'  weight="50"  id2="251920"  type="8" />
+<edge id='92255749194519' source='92251303381663' target='92251077934269'  weight="50"  id2="210632"  type="8" />
+<edge id='92255460427794' source='92250125447174' target='92251300431832'  weight="50"  id2="195609"  type="8" />
+<edge id='92255460453760' source='92250125447174' target='92251077934269'  weight="50"  id2="195611"  type="8" />
+<edge id='92255460465828' source='92250125447174' target='92249928977316'  weight="50"  id2="195612"  type="8" />
+<edge id='92254932508628' source='92249928977316' target='92251300431832'  weight="790"  id2="166342"  type="8" />
+<edge id='92254932521428' source='92249928977316' target='92251077934269'  weight="750"  id2="166343"  type="8" />
+<edge id='92255249142954' source='92249928977316' target='92251000308295'  weight="460"  id2="183611"  type="8" />
+<edge id='92255249156485' source='92249928977316' target='92251313205777'  weight="460"  id2="183612"  type="8" />
+<edge id='92255249189765' source='92249928977316' target='92250280070099'  weight="140"  id2="183615"  type="8" />
+<edge id='92255249224873' source='92249928977316' target='92250967040229'  weight="350"  id2="183618"  type="8" />
+<edge id='92255249256325' source='92249928977316' target='92250067640947'  weight="1010"  id2="183621"  type="8" />
+<edge id='92255249268759' source='92249928977316' target='92251131227613'  weight="1150"  id2="183622"  type="8" />
+<edge id='92255460380618' source='92249928977316' target='92250492766587'  weight="470"  id2="195605"  type="8" />
+<edge id='92256591339799' source='92249928977316' target='92251280552107'  weight="50"  id2="256287"  type="8" />
+<edge id='92256633872806' source='92249928977316' target='92251130793879'  weight="50"  id2="258632"  type="8" />
+<edge id='92256776987149' source='92249928977316' target='92251270121277'  weight="50"  id2="265654"  type="8" />
+<edge id='92256835052666' source='92249928977316' target='92251090409794'  weight="50"  id2="268451"  type="8" />
+<edge id='92258667512801' source='92249928977316' target='92251463832205'  weight="50"  id2="366673"  type="8" />
+<edge id='92254560409728' source='92250935564150' target='92251077934269'  weight="50"  id2="151359"  type="8" />
+<edge id='92254135233620' source='92251494394004' target='92251077934269'  weight="50"  id2="128861"  type="8" />
+<edge id='92259267502049' source='92250067640947' target='92251000308295'  weight="50"  id2="398310"  type="8" />
+<edge id='92259267517409' source='92250067640947' target='92250492766587'  weight="60"  id2="398311"  type="8" />
+<edge id='92253700002998' source='92251077934269' target='92251300431832'  weight="180"  id2="104103"  type="8" />
+<edge id='92253700036644' source='92251077934269' target='92250067640947'  weight="240"  id2="104106"  type="8" />
+<edge id='92253992049426' source='92251077934269' target='92251130793879'  weight="50"  id2="120343"  type="8" />
+<edge id='92253992085997' source='92251077934269' target='92251131227613'  weight="170"  id2="120346"  type="8" />
+<edge id='92255630865559' source='92251077934269' target='92251280552107'  weight="50"  id2="204517"  type="8" />
+<edge id='92256788507435' source='92251077934269' target='92249928977316'  weight="110"  id2="266791"  type="8" />
+<edge id='92256823417912' source='92251077934269' target='92249869181251'  weight="70"  id2="267374"  type="8" />
+<edge id='92256823705727' source='92251077934269' target='92250492766587'  weight="50"  id2="267399"  type="8" />
+<edge id='92258595455885' source='92251077934269' target='92250280070099'  weight="120"  id2="362329"  type="8" />
+<edge id='92258810040542' source='92251077934269' target='92251000308295'  weight="90"  id2="373614"  type="8" />
+<edge id='92258810055536' source='92251077934269' target='92250967040229'  weight="60"  id2="373615"  type="8" />
+<edge id='92259237778827' source='92251077934269' target='92251270121277'  weight="50"  id2="395452"  type="8" />
+<edge id='92259268884440' source='92251077934269' target='92251090409794'  weight="50"  id2="398446"  type="8" />
+<edge id='92259268897605' source='92251077934269' target='92251313205777'  weight="50"  id2="398447"  type="8" />
+<edge id='92259362441184' source='92251077934269' target='92251632486393'  weight="50"  id2="403028"  type="8" />
+<edge id='92259374763110' source='92251077934269' target='92251463832205'  weight="50"  id2="404235"  type="8" />
+<edge id='92259374779932' source='92251077934269' target='92250301172764'  weight="50"  id2="404236"  type="8" />
+<edge id='92259374792367' source='92251077934269' target='92251335270630'  weight="50"  id2="404237"  type="8" />
+</graph>
+</graphml>

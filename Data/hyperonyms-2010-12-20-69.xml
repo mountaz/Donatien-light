@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- 
+This dataset was extracted from a 2010 version of the lexical network for French called JDM ("Jeux de Mots").
+The latest version of JDM can be retrieved from http://www.jeuxdemots.org/jdm-about.php.
+JDM usage is free of rights.
+-->
+<graphml xmlns='http://graphml.graphdrawing.org/xmlns' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd' >
+<graph id='' edgedefault='directed'>
+<node id='92445899089158'  weight="3258"  id2="107150"  name="bateau"  type="1" />
+<node id='92445497062237'  weight="74"  id2="61244"  name="canot"  type="1" />
+<node id='92446418300727'  weight="50"  id2="148124"  name="faucardeur"  type="1" />
+<node id='92445177327042'  weight="985"  id2="30171"  name="navire"  type="1" />
+<node id='92445776882556'  weight="278"  id2="84319"  name="fr&#233;gate"  type="1" />
+<node id='92445220962304'  weight="1000"  id2="38245"  name="voilier"  type="1" />
+<node id='92446447357257'  weight="104"  id2="153095"  name="porte-avion"  type="1" />
+<node id='92446109099859'  weight="498"  id2="117515"  name="paquebot"  type="1" />
+<node id='92445517629134'  weight="666"  id2="65524"  name="b&#226;timent"  type="1" />
+<node id='92446159647439'  weight="134"  id2="127671"  name="embarcation"  type="1" />
+<node id='92445280494690'  weight="216"  id2="49332"  name="flotte"  type="1" />
+<node id='92445209519549'  weight="202"  id2="36004"  name="rame"  type="1" />
+<node id='92445497122214'  weight="174"  id2="61681"  name="chalutier"  type="1" />
+<node id='92446170199320'  weight="70"  id2="129285"  name="d&#233;riveur"  type="1" />
+<node id='92446476889212'  weight="64"  id2="159047"  name="bateau de p&#234;che"  type="1" />
+<node id='92445824670109'  weight="50"  id2="93793"  name="navire-citerne"  type="1" />
+<node id='92446523460774'  weight="0"  id2="168551"  name="caseyeur"  type="1" />
+<node id='92446195811210'  weight="50"  id2="134496"  name="coquillier"  type="1" />
+<node id='92446112744908'  weight="56"  id2="118363"  name="crabier"  type="1" />
+<node id='92446128472341'  weight="52"  id2="121459"  name="crevettier"  type="1" />
+<node id='92446524230963'  weight="0"  id2="168569"  name="doni"  type="1" />
+<node id='92445874226976'  weight="50"  id2="102024"  name="fileyeur"  type="1" />
+<node id='92446525499982'  weight="0"  id2="168598"  name="lanche"  type="1" />
+<node id='92447335663404'  weight="0"  id2="187522"  name="queue-d&#339;oison"  type="1" />
+<node id='92445591571295'  weight="52"  id2="78908"  name="sardinier"  type="1" />
+<node id='92446523240981'  weight="0"  id2="168542"  name="bolincheur"  type="1" />
+<node id='92446526975629'  weight="0"  id2="168663"  name="senneur"  type="1" />
+<node id='92445006048506'  weight="92"  id2="13030"  name="thonier"  type="1" />
+<node id='92445870968485'  weight="112"  id2="101488"  name="vedette"  type="1" />
+<node id='92445827821813'  weight="56"  id2="94535"  name="baleinier"  type="1" />
+<node id='92446395090466'  weight="70"  id2="143242"  name="ferry"  type="1" />
+<node id='92445768462043'  weight="70"  id2="82646"  name="transatlantique"  type="1" />
+<node id='92445855371244'  weight="286"  id2="98392"  name="vapeur"  type="1" />
+<node id='92445873132035'  weight="226"  id2="102705"  name="bac"  type="1" />
+<node id='92446122912060'  weight="52"  id2="120767"  name="bateau-mouche"  type="1" />
+<node id='92445570565909'  weight="50"  id2="75358"  name="hydroglisseur"  type="1" />
+<node id='92445559168137'  weight="50"  id2="73820"  name="bateau-citerne"  type="1" />
+<node id='92445180876274'  weight="52"  id2="31457"  name="caboteur"  type="1" />
+<node id='92445228625062'  weight="208"  id2="40742"  name="cargo"  type="1" />
+<node id='92445895533708'  weight="50"  id2="106851"  name="m&#233;thanier"  type="1" />
+<node id='92446202881881'  weight="272"  id2="135637"  name="p&#233;trolier"  type="1" />
+<node id='92445504788629'  weight="50"  id2="62077"  name="supertanker"  type="1" />
+<node id='92445830761404'  weight="78"  id2="94233"  name="tanker"  type="1" />
+<node id='92445448111720'  weight="52"  id2="51647"  name="vraquier"  type="1" />
+<node id='92446107128307'  weight="52"  id2="117482"  name="barge"  type="1" />
+<node id='92444942029568'  weight="66"  id2="2827"  name="chaland"  type="1" />
+<node id='92445171384591'  weight="50"  id2="29833"  name="gabare"  type="1" />
+<node id='92445885630966'  weight="98"  id2="104180"  name="p&#233;niche"  type="1" />
+<node id='92446190066610'  weight="462"  id2="133563"  name="barque"  type="1" />
+<node id='92445584066158'  weight="56"  id2="77763"  name="cano&#235;"  type="1" />
+<node id='92446389496904'  weight="66"  id2="142471"  name="chaloupe"  type="1" />
+<node id='92445818511158'  weight="50"  id2="92665"  name="esquif"  type="1" />
+<node id='92445166087623'  weight="54"  id2="28356"  name="gondole"  type="1" />
+<node id='92446108638696'  weight="84"  id2="117258"  name="kayak"  type="1" />
+<node id='92445225068881'  weight="52"  id2="39830"  name="pirogue"  type="1" />
+<node id='92446487454258'  weight="54"  id2="161444"  name="bateau de plaisance"  type="1" />
+<node id='92446439954520'  weight="60"  id2="152266"  name="bateau &#224; voile"  type="1" />
+<node id='92445888794007'  weight="234"  id2="105326"  name="catamaran"  type="1" />
+<node id='92445156288742'  weight="54"  id2="26516"  name="monocoque"  type="1" />
+<node id='92445036930669'  weight="58"  id2="19228"  name="optimist"  type="1" />
+<node id='92444955441315'  weight="50"  id2="4811"  name="quillard"  type="1" />
+<node id='92445906434478'  weight="60"  id2="108215"  name="planche &#224; voile"  type="1" />
+<node id='92445135179129'  weight="80"  id2="22546"  name="radeau"  type="1" />
+<node id='92446073280587'  weight="50"  id2="110500"  name="skiff"  type="1" />
+<node id='92445855286399'  weight="172"  id2="98125"  name="trimaran"  type="1" />
+<node id='92445178573022'  weight="92"  id2="30810"  name="yacht"  type="1" />
+<node id='92445815513053'  weight="50"  id2="91633"  name="yole"  type="1" />
+<node id='92446498058070'  weight="54"  id2="163753"  name="bateau &#224; moteur"  type="1" />
+<node id='92445228580445'  weight="50"  id2="40103"  name="cabin-cruiser"  type="1" />
+<node id='92445575952112'  weight="64"  id2="76457"  name="hors-bord"  type="1" />
+<node id='92445896197475'  weight="50"  id2="106060"  name="runabout"  type="1" />
+<node id='92446162054188'  weight="54"  id2="127726"  name="zodiac"  type="1" />
+<node id='92446482345996'  weight="50"  id2="160847"  name="bateau de guerre"  type="1" />
+<node id='92445155016797'  weight="126"  id2="26207"  name="croiseur"  type="1" />
+<node id='92445783247037'  weight="52"  id2="85483"  name="patrouilleur"  type="1" />
+<node id='92444993781437'  weight="126"  id2="11866"  name="porte-avions"  type="1" />
+<node id='92445501999346'  weight="50"  id2="62686"  name="bisquine"  type="1" />
+<node id='92445150421994'  weight="66"  id2="25346"  name="go&#233;lette"  type="1" />
+<node id='92446527015858'  weight="0"  id2="168665"  name="sinago"  type="1" />
+<node id='92446098507384'  weight="56"  id2="115115"  name="n&#233;grier"  type="1" />
+<node id='92445228610068'  weight="50"  id2="40067"  name="caraque"  type="1" />
+<node id='92445497081985'  weight="78"  id2="61452"  name="caravelle"  type="1" />
+<node id='92446523776749'  weight="0"  id2="168561"  name="cogue"  type="1" />
+<node id='92446097090982'  weight="50"  id2="115846"  name="cotre"  type="1" />
+<node id='92446071476897'  weight="50"  id2="110852"  name="drakkar"  type="1" />
+<node id='92446222778063'  weight="100"  id2="139772"  name="gal&#232;re"  type="1" />
+<node id='92446129074668'  weight="56"  id2="121218"  name="galion"  type="1" />
+<node id='92446124317124'  weight="50"  id2="120623"  name="jonque"  type="1" />
+<node id='92445182562571'  weight="50"  id2="31919"  name="ketch"  type="1" />
+<node id='92444967124342'  weight="50"  id2="6745"  name="sloop"  type="1" />
+<node id='92445525667478'  weight="50"  id2="66098"  name="trir&#232;me"  type="1" />
+<node id='92445911709504'  weight="56"  id2="109010"  name="remorqueur"  type="1" />
+<node id='92445798052877'  weight="54"  id2="88818"  name="hydropt&#232;re"  type="1" />
+<node id='92446427887861'  weight="80"  id2="149592"  name="p&#233;dalo"  type="1" />
+<node id='92447333523259'  weight="0"  id2="187634"  name="bateau de transport de personnes"  type="1" />
+<node id='92447336358988'  weight="0"  id2="187635"  name="vaporetto"  type="1" />
+<node id='92447333517773'  weight="0"  id2="187636"  name="bateau de transport de marchandises"  type="1" />
+<node id='92447333507899'  weight="0"  id2="187637"  name="bateau de mer"  type="1" />
+<node id='92447333502779'  weight="0"  id2="187638"  name="bateau d&apos;eau douce"  type="1" />
+<node id='92447333538253'  weight="0"  id2="187639"  name="bateau &#224; rame"  type="1" />
+<node id='92447334639046'  weight="0"  id2="187640"  name="in-bord"  type="1" />
+<node id='92447332706625'  weight="0"  id2="187641"  name="NVG"  type="1" />
+<node id='92447333528013'  weight="0"  id2="187642"  name="bateau historique"  type="1" />
+<node id='92447334183735'  weight="0"  id2="187643"  name="dund&#233;e"  type="1" />
+<node id='92447333512653'  weight="0"  id2="187644"  name="bateau de transport"  type="1" />
+<node id='92447333348083'  weight="0"  id2="187645"  name="atakebune"  type="1" />
+<node id='92446141385623'  weight="1074"  id2="123745"  name="v&#233;hicule"  type="1" />
+<node id='92446202057933'  weight="628"  id2="135190"  name="lieu"  type="1" />
+<node id='92444939606728'  weight="56"  id2="1416"  name="trois-m&#226;ts"  type="1" />
+<node id='92446513841823'  weight="50"  id2="166389"  name="Santa Maria"  type="1" />
+<node id='92447589216477'  weight="0"  id2="213265"  name="bateau plat"  type="1" />
+<node id='92447594015712'  weight="0"  id2="214441"  name="bac&gt;107150"  type="1" />
+<node id='92447594533560'  weight="0"  id2="214781"  name="caravelle&gt;107150"  type="1" />
+<node id='92447598050975'  weight="4"  id2="214872"  name="voilier&gt;107150"  type="1" />
+<node id='92447597917125'  weight="0"  id2="214922"  name="vapeur&gt;107150"  type="1" />
+<node id='92446524997494'  weight="0"  id2="168592"  name="gulet"  type="1" />
+<node id='92447596388084'  weight="0"  id2="214102"  name="nef&gt;30171"  type="1" />
+<node id='92447590376514'  weight="0"  id2="213481"  name="fl&#251;te&gt;30171"  type="1" />
+<node id='92447609442530'  weight="0"  id2="217722"  name="bateau pneumatique"  type="1" />
+<node id='92447615813229'  weight="0"  id2="218385"  name="coche&gt;107150"  type="1" />
+<node id='92446445849793'  weight="56"  id2="153067"  name="fr&#233;gate&gt;119825"  type="1" />
+<node id='92446119527398'  weight="102"  id2="119825"  name="navire de guerre"  type="1" />
+<node id='92446145269482'  weight="50"  id2="124608"  name="multicoque"  type="1" />
+<node id='92446487464498'  weight="50"  id2="161446"  name="bateau &#224; voiles"  type="1" />
+<node id='92447620241267'  weight="0"  id2="219406"  name="bateau de croisi&#232;re"  type="1" />
+<node id='92446503465118'  weight="50"  id2="164748"  name="bateau mouche"  type="1" />
+<node id='92447626728627'  weight="0"  id2="220957"  name="gondole&gt;107150"  type="1" />
+<node id='92445000885753'  weight="66"  id2="12273"  name="steamer"  type="1" />
+<node id='92446487459378'  weight="60"  id2="161445"  name="bateau &#224; vapeur"  type="1" />
+<node id='92445452507210'  weight="50"  id2="52639"  name="pyroscaphe"  type="1" />
+<node id='92447598060850'  weight="0"  id2="214875"  name="voilier&gt;140176"  type="1" />
+<node id='92447615305255'  weight="38"  id2="218051"  name="boisson&gt;103255"  type="1" />
+<node id='92446133216354'  weight="50"  id2="122897"  name="car-ferry"  type="1" />
+<node id='92447671269758'  weight="0"  id2="229315"  name="bicoque&gt;107150"  type="1" />
+<edge id='92477864846470' source='92447671269758' target='92445899089158'  weight="25"  id2="1768941"  type="6" />
+<edge id='92477795673556' source='92446133216354' target='92445899089158'  weight="25"  id2="1765057"  type="6" />
+<edge id='92476650543045' source='92447598060850' target='92445899089158'  weight="0"  id2="1709205"  type="6" />
+<edge id='92476658846896' source='92447598060850' target='92446141385623'  weight="-1"  id2="1709996"  type="6" />
+<edge id='92476606168679' source='92445452507210' target='92445899089158'  weight="25"  id2="1707571"  type="6" />
+<edge id='92476606134668' source='92446487459378' target='92445899089158'  weight="25"  id2="1707568"  type="6" />
+<edge id='92476606077617' source='92445000885753' target='92445899089158'  weight="25"  id2="1707563"  type="6" />
+<edge id='92475177704090' source='92447626728627' target='92445899089158'  weight="25"  id2="1638679"  type="6" />
+<edge id='92474906611117' source='92446503465118' target='92445899089158'  weight="25"  id2="1625131"  type="6" />
+<edge id='92474792674354' source='92447620241267' target='92445899089158'  weight="25"  id2="1619710"  type="6" />
+<edge id='92474665041321' source='92446487464498' target='92445899089158'  weight="35"  id2="1612929"  type="6" />
+<edge id='92474664858465' source='92446145269482' target='92445899089158'  weight="25"  id2="1612913"  type="6" />
+<edge id='92474601306541' source='92446119527398' target='92445899089158'  weight="25"  id2="1609571"  type="6" />
+<edge id='92471917383888' source='92446445849793' target='92446119527398'  weight="25"  id2="1472146"  type="6" />
+<edge id='92471917398151' source='92446445849793' target='92445155016797'  weight="25"  id2="1472147"  type="6" />
+<edge id='92471917423750' source='92446445849793' target='92445783247037'  weight="25"  id2="1472149"  type="6" />
+<edge id='92474601230473' source='92446445849793' target='92445899089158'  weight="35"  id2="1609564"  type="6" />
+<edge id='92474650835249' source='92446445849793' target='92445177327042'  weight="25"  id2="1611553"  type="6" />
+<edge id='92474416712441' source='92447615813229' target='92445899089158'  weight="25"  id2="1600174"  type="6" />
+<edge id='92476792549281' source='92447615813229' target='92446202057933'  weight="-1"  id2="1717339"  type="6" />
+<edge id='92474277761727' source='92447609442530' target='92445899089158'  weight="25"  id2="1592164"  type="6" />
+<edge id='92473909817678' source='92447590376514' target='92445899089158'  weight="25"  id2="1575099"  type="6" />
+<edge id='92473909830112' source='92447590376514' target='92445177327042'  weight="25"  id2="1575100"  type="6" />
+<edge id='92473900433514' source='92447596388084' target='92445177327042'  weight="45"  id2="1574192"  type="6" />
+<edge id='92473900448874' source='92447596388084' target='92445899089158'  weight="25"  id2="1574193"  type="6" />
+<edge id='92459137842607' source='92446524997494' target='92446141385623'  weight="25"  id2="597685"  type="6" />
+<edge id='92473773750234' source='92446524997494' target='92445899089158'  weight="25"  id2="1567521"  type="6" />
+<edge id='92473572676432' source='92447597917125' target='92445899089158'  weight="25"  id2="1556287"  type="6" />
+<edge id='92476671416043' source='92447597917125' target='92446159647439'  weight="4"  id2="1711182"  type="6" />
+<edge id='92473533050101' source='92447598050975' target='92445899089158'  weight="25"  id2="1555232"  type="6" />
+<edge id='92476611716526' source='92447598050975' target='92446202057933'  weight="-1"  id2="1708082"  type="6" />
+<edge id='92473520080500' source='92447594533560' target='92445899089158'  weight="25"  id2="1553964"  type="6" />
+<edge id='92473415479993' source='92447594015712' target='92445899089158'  weight="25"  id2="1549149"  type="6" />
+<edge id='92473069100137' source='92447589216477' target='92445899089158'  weight="25"  id2="1530168"  type="6" />
+<edge id='92469894120964' source='92446513841823' target='92445899089158'  weight="25"  id2="1368695"  type="6" />
+<edge id='92473520013575' source='92446513841823' target='92445228610068'  weight="25"  id2="1553958"  type="6" />
+<edge id='92473520094031' source='92446513841823' target='92445497081985'  weight="25"  id2="1553965"  type="6" />
+<edge id='92473520105003' source='92446513841823' target='92447594533560'  weight="25"  id2="1553966"  type="6" />
+<edge id='92459139066279' source='92444939606728' target='92446141385623'  weight="25"  id2="597786"  type="6" />
+<edge id='92460261916534' source='92444939606728' target='92445177327042'  weight="25"  id2="658093"  type="6" />
+<edge id='92460261930065' source='92444939606728' target='92445899089158'  weight="25"  id2="658094"  type="6" />
+<edge id='92459139213661' source='92446141385623' target='92446141385623'  weight="25"  id2="597798"  type="6" />
+<edge id='92459731364243' source='92446141385623' target='92446202057933'  weight="25"  id2="629715"  type="6" />
+<edge id='92458950637325' source='92447333348083' target='92445899089158'  weight="25"  id2="588664"  type="6" />
+<edge id='92458950625623' source='92447333512653' target='92445899089158'  weight="25"  id2="588663"  type="6" />
+<edge id='92458950613920' source='92447334183735' target='92445899089158'  weight="25"  id2="588662"  type="6" />
+<edge id='92458950602948' source='92447333528013' target='92445899089158'  weight="25"  id2="588661"  type="6" />
+<edge id='92458950591246' source='92447332706625' target='92445899089158'  weight="25"  id2="588660"  type="6" />
+<edge id='92458950578446' source='92447334639046' target='92445899089158'  weight="25"  id2="588659"  type="6" />
+<edge id='92458950565646' source='92447333538253' target='92445899089158'  weight="25"  id2="588658"  type="6" />
+<edge id='92458950554309' source='92447333502779' target='92445899089158'  weight="25"  id2="588657"  type="6" />
+<edge id='92458950541509' source='92447333507899' target='92445899089158'  weight="25"  id2="588656"  type="6" />
+<edge id='92458950529075' source='92447333517773' target='92445899089158'  weight="25"  id2="588655"  type="6" />
+<edge id='92458950515543' source='92447336358988' target='92445899089158'  weight="25"  id2="588654"  type="6" />
+<edge id='92458950503109' source='92447333523259' target='92445899089158'  weight="25"  id2="588653"  type="6" />
+<edge id='92458950488846' source='92446427887861' target='92445899089158'  weight="25"  id2="588652"  type="6" />
+<edge id='92459138291701' source='92446427887861' target='92446141385623'  weight="25"  id2="597722"  type="6" />
+<edge id='92458950476778' source='92445798052877' target='92445899089158'  weight="25"  id2="588651"  type="6" />
+<edge id='92458950464344' source='92445911709504' target='92445899089158'  weight="25"  id2="588650"  type="6" />
+<edge id='92459138606214' source='92445911709504' target='92446141385623'  weight="25"  id2="597748"  type="6" />
+<edge id='92458950451544' source='92445525667478' target='92445899089158'  weight="25"  id2="588649"  type="6" />
+<edge id='92459139040679' source='92445525667478' target='92446141385623'  weight="25"  id2="597784"  type="6" />
+<edge id='92458950438744' source='92444967124342' target='92445899089158'  weight="25"  id2="588648"  type="6" />
+<edge id='92459138737138' source='92444967124342' target='92446141385623'  weight="25"  id2="597759"  type="6" />
+<edge id='92458950425578' source='92445182562571' target='92445899089158'  weight="25"  id2="588647"  type="6" />
+<edge id='92459137939887' source='92445182562571' target='92446141385623'  weight="25"  id2="597693"  type="6" />
+<edge id='92458950413875' source='92446124317124' target='92445899089158'  weight="25"  id2="588646"  type="6" />
+<edge id='92459137927087' source='92446124317124' target='92446141385623'  weight="25"  id2="597692"  type="6" />
+<edge id='92458950401807' source='92446129074668' target='92445899089158'  weight="25"  id2="588645"  type="6" />
+<edge id='92459137771659' source='92446129074668' target='92446141385623'  weight="25"  id2="597679"  type="6" />
+<edge id='92458950389739' source='92446222778063' target='92445899089158'  weight="25"  id2="588644"  type="6" />
+<edge id='92459137759957' source='92446222778063' target='92446141385623'  weight="25"  id2="597678"  type="6" />
+<edge id='92458950376573' source='92446071476897' target='92445899089158'  weight="25"  id2="588643"  type="6" />
+<edge id='92459137507615' source='92446071476897' target='92446141385623'  weight="25"  id2="597663"  type="6" />
+<edge id='92458950364504' source='92446097090982' target='92445899089158'  weight="35"  id2="588642"  type="6" />
+<edge id='92459137313423' source='92446097090982' target='92446141385623'  weight="25"  id2="597647"  type="6" />
+<edge id='92458950349510' source='92446523776749' target='92445899089158'  weight="25"  id2="588641"  type="6" />
+<edge id='92458950337076' source='92445497081985' target='92445899089158'  weight="25"  id2="588640"  type="6" />
+<edge id='92459137011345' source='92445497081985' target='92446141385623'  weight="25"  id2="597623"  type="6" />
+<edge id='92458950319888' source='92445228610068' target='92445899089158'  weight="25"  id2="588639"  type="6" />
+<edge id='92459136983185' source='92445228610068' target='92446141385623'  weight="25"  id2="597621"  type="6" />
+<edge id='92458950307453' source='92446098507384' target='92445899089158'  weight="25"  id2="588638"  type="6" />
+<edge id='92458950295019' source='92446527015858' target='92445899089158'  weight="25"  id2="588637"  type="6" />
+<edge id='92459138713733' source='92446527015858' target='92446141385623'  weight="25"  id2="597757"  type="6" />
+<edge id='92458950281854' source='92445150421994' target='92445899089158'  weight="25"  id2="588636"  type="6" />
+<edge id='92459137806768' source='92445150421994' target='92446141385623'  weight="25"  id2="597682"  type="6" />
+<edge id='92473358548182' source='92445150421994' target='92445517629134'  weight="25"  id2="1546293"  type="6" />
+<edge id='92458950269419' source='92445501999346' target='92445899089158'  weight="25"  id2="588635"  type="6" />
+<edge id='92459136767415' source='92445501999346' target='92446141385623'  weight="25"  id2="597603"  type="6" />
+<edge id='92458675772767' source='92444993781437' target='92446482345996'  weight="25"  id2="574357"  type="6" />
+<edge id='92458950256619' source='92444993781437' target='92445899089158'  weight="25"  id2="588634"  type="6" />
+<edge id='92459138461392' source='92444993781437' target='92446141385623'  weight="25"  id2="597736"  type="6" />
+<edge id='92460363607804' source='92444993781437' target='92446119527398'  weight="25"  id2="663249"  type="6" />
+<edge id='92458675760333' source='92445783247037' target='92446482345996'  weight="25"  id2="574356"  type="6" />
+<edge id='92458950244917' source='92445783247037' target='92445899089158'  weight="25"  id2="588633"  type="6" />
+<edge id='92459138279999' source='92445783247037' target='92446141385623'  weight="25"  id2="597721"  type="6" />
+<edge id='92458675741316' source='92445155016797' target='92446482345996'  weight="25"  id2="574355"  type="6" />
+<edge id='92458950233214' source='92445155016797' target='92445899089158'  weight="25"  id2="588632"  type="6" />
+<edge id='92459137350359' source='92445155016797' target='92446141385623'  weight="25"  id2="597650"  type="6" />
+<edge id='92458950219683' source='92446482345996' target='92445899089158'  weight="25"  id2="588631"  type="6" />
+<edge id='92458950206883' source='92446162054188' target='92445899089158'  weight="25"  id2="588630"  type="6" />
+<edge id='92458950193351' source='92445896197475' target='92445899089158'  weight="25"  id2="588629"  type="6" />
+<edge id='92458950181283' source='92445575952112' target='92445899089158'  weight="25"  id2="588628"  type="6" />
+<edge id='92459137854310' source='92445575952112' target='92446141385623'  weight="25"  id2="597686"  type="6" />
+<edge id='92458950169214' source='92445228580445' target='92445899089158'  weight="25"  id2="588627"  type="6" />
+<edge id='92458950156780' source='92446498058070' target='92445899089158'  weight="25"  id2="588626"  type="6" />
+<edge id='92458950145077' source='92445815513053' target='92445899089158'  weight="25"  id2="588625"  type="6" />
+<edge id='92459139335443' source='92445815513053' target='92446141385623'  weight="25"  id2="597808"  type="6" />
+<edge id='92458950133009' source='92445178573022' target='92445899089158'  weight="25"  id2="588624"  type="6" />
+<edge id='92459139310940' source='92445178573022' target='92446141385623'  weight="25"  id2="597806"  type="6" />
+<edge id='92458950120575' source='92445855286399' target='92445899089158'  weight="25"  id2="588623"  type="6" />
+<edge id='92459139029342' source='92445855286399' target='92446141385623'  weight="25"  id2="597783"  type="6" />
+<edge id='92474779756318' source='92445855286399' target='92445177327042'  weight="25"  id2="1618454"  type="6" />
+<edge id='92458950108140' source='92446073280587' target='92445899089158'  weight="25"  id2="588622"  type="6" />
+<edge id='92458950095706' source='92445135179129' target='92445899089158'  weight="25"  id2="588621"  type="6" />
+<edge id='92459138546968' source='92445135179129' target='92446141385623'  weight="25"  id2="597743"  type="6" />
+<edge id='92458950082906' source='92445906434478' target='92445899089158'  weight="25"  id2="588620"  type="6" />
+<edge id='92458950069375' source='92444955441315' target='92445899089158'  weight="25"  id2="588619"  type="6" />
+<edge id='92458950057307' source='92445036930669' target='92445899089158'  weight="25"  id2="588618"  type="6" />
+<edge id='92459138232090' source='92445036930669' target='92446141385623'  weight="25"  id2="597717"  type="6" />
+<edge id='92458950044507' source='92445156288742' target='92445899089158'  weight="25"  id2="588617"  type="6" />
+<edge id='92458950031341' source='92445888794007' target='92445899089158'  weight="25"  id2="588616"  type="6" />
+<edge id='92459137034750' source='92445888794007' target='92446141385623'  weight="25"  id2="597625"  type="6" />
+<edge id='92459731913542' source='92445888794007' target='92446202057933'  weight="25"  id2="629761"  type="6" />
+<edge id='92474664807266' source='92445888794007' target='92446145269482'  weight="25"  id2="1612911"  type="6" />
+<edge id='92474779160208' source='92445888794007' target='92446439954520'  weight="25"  id2="1618380"  type="6" />
+<edge id='92474779772044' source='92445888794007' target='92445177327042'  weight="25"  id2="1618455"  type="6" />
+<edge id='92476593166529' source='92445888794007' target='92445280494690'  weight="-3"  id2="1706400"  type="6" />
+<edge id='92458950018541' source='92446439954520' target='92445899089158'  weight="25"  id2="588615"  type="6" />
+<edge id='92459743253532' source='92446439954520' target='92446202057933'  weight="25"  id2="630679"  type="6" />
+<edge id='92458950006473' source='92446487454258' target='92445899089158'  weight="25"  id2="588614"  type="6" />
+<edge id='92458949994404' source='92445225068881' target='92445899089158'  weight="25"  id2="588613"  type="6" />
+<edge id='92459138361918' source='92445225068881' target='92446141385623'  weight="25"  id2="597728"  type="6" />
+<edge id='92458949981238' source='92446108638696' target='92445899089158'  weight="25"  id2="588612"  type="6" />
+<edge id='92459739108555' source='92446108638696' target='92446202057933'  weight="25"  id2="630340"  type="6" />
+<edge id='92458949969170' source='92445166087623' target='92445899089158'  weight="25"  id2="588611"  type="6" />
+<edge id='92459137818836' source='92445166087623' target='92446141385623'  weight="25"  id2="597683"  type="6" />
+<edge id='92458949957102' source='92445818511158' target='92445899089158'  weight="25"  id2="588610"  type="6" />
+<edge id='92458949945033' source='92446389496904' target='92445899089158'  weight="25"  id2="588609"  type="6" />
+<edge id='92458949932965' source='92445584066158' target='92445899089158'  weight="25"  id2="588608"  type="6" />
+<edge id='92458949918702' source='92446190066610' target='92445899089158'  weight="25"  id2="588607"  type="6" />
+<edge id='92459731782983' source='92446190066610' target='92446202057933'  weight="25"  id2="629750"  type="6" />
+<edge id='92458949906633' source='92445885630966' target='92445899089158'  weight="25"  id2="588606"  type="6" />
+<edge id='92459138327175' source='92445885630966' target='92446141385623'  weight="25"  id2="597725"  type="6" />
+<edge id='92458949894199' source='92445171384591' target='92445899089158'  weight="25"  id2="588605"  type="6" />
+<edge id='92458949879571' source='92444942029568' target='92445899089158'  weight="25"  id2="588604"  type="6" />
+<edge id='92459137070956' source='92444942029568' target='92446141385623'  weight="25"  id2="597628"  type="6" />
+<edge id='92458949865674' source='92446107128307' target='92445899089158'  weight="25"  id2="588603"  type="6" />
+<edge id='92459136673793' source='92446107128307' target='92446141385623'  weight="25"  id2="597595"  type="6" />
+<edge id='92458949852142' source='92445448111720' target='92445899089158'  weight="25"  id2="588602"  type="6" />
+<edge id='92459139286803' source='92445448111720' target='92446141385623'  weight="25"  id2="597804"  type="6" />
+<edge id='92458949839342' source='92445830761404' target='92445899089158'  weight="25"  id2="588601"  type="6" />
+<edge id='92458949827274' source='92445504788629' target='92445899089158'  weight="25"  id2="588600"  type="6" />
+<edge id='92475039172482' source='92445504788629' target='92445177327042'  weight="25"  id2="1631800"  type="6" />
+<edge id='92458949792166' source='92446202881881' target='92445899089158'  weight="25"  id2="588599"  type="6" />
+<edge id='92459138338878' source='92446202881881' target='92446141385623'  weight="25"  id2="597726"  type="6" />
+<edge id='92459726330587' source='92446202881881' target='92446202057933'  weight="25"  id2="629325"  type="6" />
+<edge id='92458949779731' source='92445895533708' target='92445899089158'  weight="25"  id2="588598"  type="6" />
+<edge id='92459138067520' source='92445895533708' target='92446141385623'  weight="25"  id2="597703"  type="6" />
+<edge id='92458949767297' source='92445228625062' target='92445899089158'  weight="25"  id2="588597"  type="6" />
+<edge id='92459137023047' source='92445228625062' target='92446141385623'  weight="25"  id2="597624"  type="6" />
+<edge id='92473135889707' source='92445228625062' target='92445177327042'  weight="25"  id2="1532427"  type="6" />
+<edge id='92458949754131' source='92445180876274' target='92445899089158'  weight="25"  id2="588596"  type="6" />
+<edge id='92458949742429' source='92445559168137' target='92445899089158'  weight="25"  id2="588595"  type="6" />
+<edge id='92459136697198' source='92445559168137' target='92446141385623'  weight="25"  id2="597597"  type="6" />
+<edge id='92458949730360' source='92445570565909' target='92445899089158'  weight="25"  id2="588594"  type="6" />
+<edge id='92459137890150' source='92445570565909' target='92446141385623'  weight="25"  id2="597689"  type="6" />
+<edge id='92458949717195' source='92446122912060' target='92445899089158'  weight="25"  id2="588593"  type="6" />
+<edge id='92459136709267' source='92446122912060' target='92446141385623'  weight="25"  id2="597598"  type="6" />
+<edge id='92476725421062' source='92446122912060' target='92446202057933'  weight="2"  id2="1713612"  type="6" />
+<edge id='92458949705858' source='92445873132035' target='92445899089158'  weight="25"  id2="588592"  type="6" />
+<edge id='92459136598456' source='92445873132035' target='92446141385623'  weight="25"  id2="597589"  type="6" />
+<edge id='92459726654973' source='92445873132035' target='92446202057933'  weight="25"  id2="629347"  type="6" />
+<edge id='92458949693058' source='92445855371244' target='92445899089158'  weight="25"  id2="588591"  type="6" />
+<edge id='92458949680258' source='92445768462043' target='92445899089158'  weight="25"  id2="588590"  type="6" />
+<edge id='92458949638567' source='92446395090466' target='92445899089158'  weight="25"  id2="588589"  type="6" />
+<edge id='92459137593923' source='92446395090466' target='92446141385623'  weight="25"  id2="597670"  type="6" />
+<edge id='92458675797635' source='92445827821813' target='92446476889212'  weight="25"  id2="574359"  type="6" />
+<edge id='92458949625767' source='92445827821813' target='92445899089158'  weight="25"  id2="588588"  type="6" />
+<edge id='92459136610525' source='92445827821813' target='92446141385623'  weight="25"  id2="597590"  type="6" />
+<edge id='92458675784835' source='92445870968485' target='92446482345996'  weight="25"  id2="574358"  type="6" />
+<edge id='92458949414385' source='92445870968485' target='92445899089158'  weight="25"  id2="588568"  type="6" />
+<edge id='92459139199398' source='92445870968485' target='92446141385623'  weight="25"  id2="597797"  type="6" />
+<edge id='92458675947211' source='92445006048506' target='92446476889212'  weight="25"  id2="574370"  type="6" />
+<edge id='92458676134821' source='92445006048506' target='92445899089158'  weight="25"  id2="574383"  type="6" />
+<edge id='92459138897686' source='92445006048506' target='92446141385623'  weight="25"  id2="597772"  type="6" />
+<edge id='92458675933680' source='92446526975629' target='92446476889212'  weight="25"  id2="574369"  type="6" />
+<edge id='92458676123484' source='92446526975629' target='92445899089158'  weight="25"  id2="574382"  type="6" />
+<edge id='92458675921977' source='92446523240981' target='92446476889212'  weight="25"  id2="574368"  type="6" />
+<edge id='92458676112147' source='92446523240981' target='92445899089158'  weight="25"  id2="574381"  type="6" />
+<edge id='92458675909177' source='92445591571295' target='92446476889212'  weight="25"  id2="574367"  type="6" />
+<edge id='92458676100079' source='92445591571295' target='92445899089158'  weight="25"  id2="574380"  type="6" />
+<edge id='92459138654853' source='92445591571295' target='92446141385623'  weight="25"  id2="597752"  type="6" />
+<edge id='92458675960011' source='92447335663404' target='92446476889212'  weight="25"  id2="574371"  type="6" />
+<edge id='92458676088376' source='92447335663404' target='92445899089158'  weight="25"  id2="574379"  type="6" />
+<edge id='92458675897474' source='92446525499982' target='92446476889212'  weight="25"  id2="574366"  type="6" />
+<edge id='92458676047051' source='92446525499982' target='92445899089158'  weight="25"  id2="574378"  type="6" />
+<edge id='92458675885406' source='92445874226976' target='92446476889212'  weight="25"  id2="574365"  type="6" />
+<edge id='92458676035713' source='92445874226976' target='92445899089158'  weight="25"  id2="574377"  type="6" />
+<edge id='92458675873337' source='92446524230963' target='92446476889212'  weight="25"  id2="574364"  type="6" />
+<edge id='92458676021451' source='92446524230963' target='92445899089158'  weight="25"  id2="574376"  type="6" />
+<edge id='92458675860903' source='92446128472341' target='92446476889212'  weight="25"  id2="574363"  type="6" />
+<edge id='92458676010114' source='92446128472341' target='92445899089158'  weight="25"  id2="574375"  type="6" />
+<edge id='92459137338657' source='92446128472341' target='92446141385623'  weight="25"  id2="597649"  type="6" />
+<edge id='92476743324846' source='92446128472341' target='92446202057933'  weight="1"  id2="1715252"  type="6" />
+<edge id='92458675848469' source='92446112744908' target='92446476889212'  weight="25"  id2="574362"  type="6" />
+<edge id='92458675999142' source='92446112744908' target='92445899089158'  weight="25"  id2="574374"  type="6" />
+<edge id='92458675822504' source='92446195811210' target='92446476889212'  weight="25"  id2="574361"  type="6" />
+<edge id='92458675988537' source='92446195811210' target='92445899089158'  weight="25"  id2="574373"  type="6" />
+<edge id='92458675810801' source='92446523460774' target='92446476889212'  weight="25"  id2="574360"  type="6" />
+<edge id='92458675976102' source='92446523460774' target='92445899089158'  weight="25"  id2="574372"  type="6" />
+<edge id='92457722831091' source='92445824670109' target='92445899089158'  weight="25"  id2="523198"  type="6" />
+<edge id='92455013804521' source='92446476889212' target='92445497122214'  weight="50"  id2="382485"  type="6" />
+<edge id='92455433886265' source='92446476889212' target='92445517629134'  weight="50"  id2="404525"  type="6" />
+<edge id='92455433899065' source='92446476889212' target='92446159647439'  weight="60"  id2="404526"  type="6" />
+<edge id='92455433912962' source='92446476889212' target='92445177327042'  weight="60"  id2="404527"  type="6" />
+<edge id='92455433925396' source='92446476889212' target='92445899089158'  weight="80"  id2="404528"  type="6" />
+<edge id='92454701793889' source='92446170199320' target='92446190066610'  weight="50"  id2="366640"  type="6" />
+<edge id='92454701812174' source='92446170199320' target='92445177327042'  weight="50"  id2="366641"  type="6" />
+<edge id='92454701824609' source='92446170199320' target='92445899089158'  weight="50"  id2="366642"  type="6" />
+<edge id='92459137422405' source='92446170199320' target='92446141385623'  weight="25"  id2="597656"  type="6" />
+<edge id='92452284263716' source='92445497122214' target='92446476889212'  weight="100"  id2="238141"  type="6" />
+<edge id='92452284298824' source='92445497122214' target='92445899089158'  weight="70"  id2="238144"  type="6" />
+<edge id='92452284310893' source='92445497122214' target='92445177327042'  weight="50"  id2="238145"  type="6" />
+<edge id='92459137083024' source='92445497122214' target='92446141385623'  weight="25"  id2="597629"  type="6" />
+<edge id='92459731866366' source='92445497122214' target='92446202057933'  weight="25"  id2="629757"  type="6" />
+<edge id='92450653022205' source='92445209519549' target='92446108638696'  weight="50"  id2="149771"  type="6" />
+<edge id='92450653035370' source='92445209519549' target='92445899089158'  weight="50"  id2="149772"  type="6" />
+<edge id='92476737386784' source='92445280494690' target='92447615305255'  weight="1"  id2="1714719"  type="6" />
+<edge id='92459723978695' source='92445517629134' target='92446202057933'  weight="25"  id2="629136"  type="6" />
+<edge id='92476678262898' source='92445517629134' target='92446159647439'  weight="1"  id2="1711815"  type="6" />
+<edge id='92450465333452' source='92446109099859' target='92446141385623'  weight="50"  id2="139672"  type="6" />
+<edge id='92450465345886' source='92446109099859' target='92445177327042'  weight="60"  id2="139673"  type="6" />
+<edge id='92450465357223' source='92446109099859' target='92445899089158'  weight="60"  id2="139674"  type="6" />
+<edge id='92450459868621' source='92446447357257' target='92446119527398'  weight="50"  id2="139132"  type="6" />
+<edge id='92450459887273' source='92446447357257' target='92445899089158'  weight="50"  id2="139133"  type="6" />
+<edge id='92450459901170' source='92446447357257' target='92445177327042'  weight="50"  id2="139134"  type="6" />
+<edge id='92460363560993' source='92446447357257' target='92444993781437'  weight="25"  id2="663245"  type="6" />
+<edge id='92450403388099' source='92445220962304' target='92445177327042'  weight="60"  id2="136285"  type="6" />
+<edge id='92450403405288' source='92445220962304' target='92445899089158'  weight="60"  id2="136286"  type="6" />
+<edge id='92450403417356' source='92445220962304' target='92446159647439'  weight="50"  id2="136287"  type="6" />
+<edge id='92450403449539' source='92445220962304' target='92445517629134'  weight="50"  id2="136290"  type="6" />
+<edge id='92450403461242' source='92445220962304' target='92446141385623'  weight="50"  id2="136291"  type="6" />
+<edge id='92459728875575' source='92445220962304' target='92446202057933'  weight="25"  id2="629514"  type="6" />
+<edge id='92450212228742' source='92445776882556' target='92445899089158'  weight="590"  id2="125838"  type="6" />
+<edge id='92450219262476' source='92445776882556' target='92445177327042'  weight="570"  id2="126533"  type="6" />
+<edge id='92450219275642' source='92445776882556' target='92446119527398'  weight="170"  id2="126534"  type="6" />
+<edge id='92450272873258' source='92445776882556' target='92446141385623'  weight="50"  id2="129281"  type="6" />
+<edge id='92450588682538' source='92445776882556' target='92445220962304'  weight="200"  id2="146305"  type="6" />
+<edge id='92450705688719' source='92445776882556' target='92446439954520'  weight="50"  id2="152432"  type="6" />
+<edge id='92450849829614' source='92445776882556' target='92446159647439'  weight="50"  id2="160954"  type="6" />
+<edge id='92451231699967' source='92445776882556' target='92445517629134'  weight="100"  id2="181538"  type="6" />
+<edge id='92452795610654' source='92445776882556' target='92446482345996'  weight="50"  id2="264698"  type="6" />
+<edge id='92450152534711' source='92445177327042' target='92445899089158'  weight="570"  id2="122978"  type="6" />
+<edge id='92450160047893' source='92445177327042' target='92446141385623'  weight="240"  id2="123704"  type="6" />
+<edge id='92450274791782' source='92445177327042' target='92446190066610'  weight="60"  id2="129466"  type="6" />
+<edge id='92450274807141' source='92445177327042' target='92445220962304'  weight="60"  id2="129467"  type="6" />
+<edge id='92450274830913' source='92445177327042' target='92445888794007'  weight="60"  id2="129468"  type="6" />
+<edge id='92450407926216' source='92445177327042' target='92445280494690'  weight="140"  id2="136717"  type="6" />
+<edge id='92450836114327' source='92445177327042' target='92445517629134'  weight="80"  id2="159617"  type="6" />
+<edge id='92451010768748' source='92445177327042' target='92446159647439'  weight="100"  id2="168471"  type="6" />
+<edge id='92452459751593' source='92445177327042' target='92446109099859'  weight="50"  id2="246813"  type="6" />
+<edge id='92454664489097' source='92445177327042' target='92445228625062'  weight="50"  id2="363646"  type="6" />
+<edge id='92459728316767' source='92445177327042' target='92446202057933'  weight="25"  id2="629474"  type="6" />
+<edge id='92449421954553' source='92446418300727' target='92445899089158'  weight="50"  id2="83965"  type="6" />
+<edge id='92449421969182' source='92446418300727' target='92445177327042'  weight="50"  id2="83966"  type="6" />
+<edge id='92449422001364' source='92446418300727' target='92446141385623'  weight="50"  id2="83969"  type="6" />
+<edge id='92449112178786' source='92445497062237' target='92445899089158'  weight="50"  id2="68261"  type="6" />
+<edge id='92459136959779' source='92445497062237' target='92446141385623'  weight="25"  id2="597619"  type="6" />
+<edge id='92450522217719' source='92445899089158' target='92445517629134'  weight="50"  id2="142731"  type="6" />
+<edge id='92450522231251' source='92445899089158' target='92446159647439'  weight="50"  id2="142732"  type="6" />
+<edge id='92450522243319' source='92445899089158' target='92445177327042'  weight="60"  id2="142733"  type="6" />
+<edge id='92450577277451' source='92445899089158' target='92445280494690'  weight="50"  id2="145189"  type="6" />
+<edge id='92459136685495' source='92445899089158' target='92446141385623'  weight="25"  id2="597596"  type="6" />
+<edge id='92459727394442' source='92445899089158' target='92446202057933'  weight="25"  id2="629398"  type="6" />
+<edge id='92476786977297' source='92445899089158' target='92447615305255'  weight="-2"  id2="1716815"  type="6" />
+</graph>
+</graphml>

@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- 
+This dataset was extracted from a 2010 version of the lexical network for French called JDM ("Jeux de Mots").
+The latest version of JDM can be retrieved from http://www.jeuxdemots.org/jdm-about.php.
+JDM usage is free of rights.
+-->
+<graphml xmlns='http://graphml.graphdrawing.org/xmlns' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd' >
+<graph id='' edgedefault='directed'>
+<node id='104875634869005'  weight="3258"  id2="107150"  name="bateau"  type="1" />
+<node id='104874909055169'  weight="208"  id2="40742"  name="cargo"  type="1" />
+<node id='104876051286683'  weight="578"  id2="143712"  name="marine"  type="1" />
+<node id='104874835155796'  weight="126"  id2="26207"  name="croiseur"  type="1" />
+<node id='104874857621469'  weight="985"  id2="30171"  name="navire"  type="1" />
+<node id='104874520268476'  weight="56"  id2="1416"  name="trois-m&#226;ts"  type="1" />
+<node id='104875740540682'  weight="134"  id2="127671"  name="embarcation"  type="1" />
+<node id='104874901369736'  weight="1000"  id2="38245"  name="voilier"  type="1" />
+<node id='104876031442798'  weight="832"  id2="139331"  name="voile"  type="1" />
+<node id='104875687150059'  weight="52"  id2="117482"  name="barge"  type="1" />
+<node id='104875996613143'  weight="462"  id2="133563"  name="barque"  type="1" />
+<node id='104875703175913'  weight="52"  id2="120767"  name="bateau-mouche"  type="1" />
+<node id='104874861225192'  weight="52"  id2="31457"  name="caboteur"  type="1" />
+<node id='104875173662976'  weight="78"  id2="61452"  name="caravelle"  type="1" />
+<node id='104874522670105'  weight="66"  id2="2827"  name="chaland"  type="1" />
+<node id='104875173703204'  weight="174"  id2="61681"  name="chalutier"  type="1" />
+<node id='104875537176793'  weight="64"  id2="89703"  name="coche"  type="1" />
+<node id='104875280425937'  weight="250"  id2="81367"  name="nef"  type="1" />
+<node id='104875689144285'  weight="498"  id2="117515"  name="paquebot"  type="1" />
+<node id='104875264996924'  weight="52"  id2="78782"  name="rafiot"  type="1" />
+<node id='104874760830736'  weight="66"  id2="12273"  name="steamer"  type="1" />
+<node id='104875287052999'  weight="70"  id2="82646"  name="transatlantique"  type="1" />
+<node id='104874738755643'  weight="228"  id2="8131"  name="vaisseau"  type="1" />
+<node id='104875590555713'  weight="286"  id2="98392"  name="vapeur"  type="1" />
+<node id='104874858869643'  weight="92"  id2="30810"  name="yacht"  type="1" />
+<node id='104875550447009'  weight="50"  id2="91633"  name="yole"  type="1" />
+<node id='104875194533779'  weight="666"  id2="65524"  name="b&#226;timent"  type="1" />
+<node id='104874861523613'  weight="58"  id2="31255"  name="coquille de noix"  type="1" />
+<node id='104874919337520'  weight="124"  id2="42794"  name="arnaque"  type="1" />
+<node id='104874806512887'  weight="54"  id2="21967"  name="entourloupe"  type="1" />
+<node id='104876909037614'  weight="0"  id2="218385"  name="coche&gt;107150"  type="1" />
+<edge id='104904285213103' source='104876909037614' target='104874522670105'  weight="25"  id2="1600177"  type="5" />
+<edge id='104904285292097' source='104876909037614' target='104875634869005'  weight="25"  id2="1600183"  type="5" />
+<edge id='104888192204927' source='104874861523613' target='104875634869005'  weight="25"  id2="585230"  type="5" />
+<edge id='104887462549288' source='104875194533779' target='104874857621469'  weight="25"  id2="553454"  type="5" />
+<edge id='104888192178961' source='104875194533779' target='104875634869005'  weight="25"  id2="585228"  type="5" />
+<edge id='104889491856330' source='104875194533779' target='104875689144285'  weight="25"  id2="652311"  type="5" />
+<edge id='104889491893633' source='104875194533779' target='104874738755643'  weight="25"  id2="652314"  type="5" />
+<edge id='104887781092995' source='104875550447009' target='104875634869005'  weight="25"  id2="569237"  type="5" />
+<edge id='104887781105795' source='104875550447009' target='104875740540682'  weight="25"  id2="569238"  type="5" />
+<edge id='104888524308128' source='104874858869643' target='104875634869005'  weight="25"  id2="603669"  type="5" />
+<edge id='104888524320562' source='104874858869643' target='104874901369736'  weight="25"  id2="603670"  type="5" />
+<edge id='104887555669738' source='104875590555713' target='104875634869005'  weight="25"  id2="558007"  type="5" />
+<edge id='104887555694607' source='104875590555713' target='104874760830736'  weight="25"  id2="558009"  type="5" />
+<edge id='104887462611825' source='104874738755643' target='104874857621469'  weight="25"  id2="553459"  type="5" />
+<edge id='104887531562386' source='104874738755643' target='104875634869005'  weight="25"  id2="555898"  type="5" />
+<edge id='104887531586157' source='104874738755643' target='104875194533779'  weight="25"  id2="555900"  type="5" />
+<edge id='104887531598957' source='104874738755643' target='104875280425937'  weight="25"  id2="555901"  type="5" />
+<edge id='104906278486933' source='104874738755643' target='104875687150059'  weight="25"  id2="1700120"  type="5" />
+<edge id='104887462598659' source='104875287052999' target='104874857621469'  weight="25"  id2="553458"  type="5" />
+<edge id='104889691329779' source='104875287052999' target='104875634869005'  weight="25"  id2="663225"  type="5" />
+<edge id='104889691343676' source='104875287052999' target='104875689144285'  weight="25"  id2="663226"  type="5" />
+<edge id='104889691355744' source='104875287052999' target='104874760830736'  weight="25"  id2="663227"  type="5" />
+<edge id='104887462586225' source='104874760830736' target='104874857621469'  weight="25"  id2="553457"  type="5" />
+<edge id='104888464863147' source='104874760830736' target='104875634869005'  weight="25"  id2="600246"  type="5" />
+<edge id='104888464875946' source='104874760830736' target='104875287052999'  weight="25"  id2="600247"  type="5" />
+<edge id='104888464888381' source='104874760830736' target='104875590555713'  weight="25"  id2="600248"  type="5" />
+<edge id='104887919188310' source='104875264996924' target='104875996613143'  weight="25"  id2="574273"  type="5" />
+<edge id='104887919198915' source='104875264996924' target='104875740540682'  weight="25"  id2="574274"  type="5" />
+<edge id='104887919209887' source='104875264996924' target='104875634869005'  weight="25"  id2="574275"  type="5" />
+<edge id='104887462572694' source='104875689144285' target='104874857621469'  weight="25"  id2="553456"  type="5" />
+<edge id='104889491766000' source='104875689144285' target='104875634869005'  weight="25"  id2="652304"  type="5" />
+<edge id='104889491779165' source='104875689144285' target='104875194533779'  weight="25"  id2="652305"  type="5" />
+<edge id='104889491792331' source='104875689144285' target='104875287052999'  weight="25"  id2="652306"  type="5" />
+<edge id='104906278396968' source='104875689144285' target='104875687150059'  weight="25"  id2="1700113"  type="5" />
+<edge id='104887462560991' source='104875280425937' target='104874857621469'  weight="25"  id2="553455"  type="5" />
+<edge id='104888192192493' source='104875280425937' target='104875634869005'  weight="25"  id2="585229"  type="5" />
+<edge id='104889161458078' source='104875280425937' target='104874738755643'  weight="25"  id2="633567"  type="5" />
+<edge id='104887974870848' source='104875537176793' target='104875634869005'  weight="25"  id2="576773"  type="5" />
+<edge id='104887974933019' source='104875537176793' target='104874522670105'  weight="25"  id2="576776"  type="5" />
+<edge id='104890419122116' source='104875173703204' target='104875634869005'  weight="25"  id2="698263"  type="5" />
+<edge id='104906278269700' source='104875173703204' target='104875687150059'  weight="25"  id2="1700108"  type="5" />
+<edge id='104889670111915' source='104874522670105' target='104875537176793'  weight="25"  id2="661397"  type="5" />
+<edge id='104889670123983' source='104874522670105' target='104875634869005'  weight="25"  id2="661398"  type="5" />
+<edge id='104906728320424' source='104874522670105' target='104875687150059'  weight="25"  id2="1722704"  type="5" />
+<edge id='104890418031929' source='104875173662976' target='104875634869005'  weight="25"  id2="698177"  type="5" />
+<edge id='104903337418455' source='104875173662976' target='104875280425937'  weight="25"  id2="1553915"  type="5" />
+<edge id='104906278244100' source='104875173662976' target='104875687150059'  weight="25"  id2="1700106"  type="5" />
+<edge id='104890140171094' source='104874861225192' target='104875634869005'  weight="25"  id2="683500"  type="5" />
+<edge id='104890140184260' source='104874861225192' target='104874909055169'  weight="25"  id2="683501"  type="5" />
+<edge id='104906278219963' source='104874861225192' target='104875687150059'  weight="25"  id2="1700104"  type="5" />
+<edge id='104891044652306' source='104875703175913' target='104875634869005'  weight="25"  id2="725680"  type="5" />
+<edge id='104887919065796' source='104875996613143' target='104875687150059'  weight="25"  id2="574263"  type="5" />
+<edge id='104887919078962' source='104875996613143' target='104875740540682'  weight="25"  id2="574264"  type="5" />
+<edge id='104887919091762' source='104875996613143' target='104875264996924'  weight="25"  id2="574265"  type="5" />
+<edge id='104887919103464' source='104875996613143' target='104875634869005'  weight="25"  id2="574266"  type="5" />
+<edge id='104889670001835' source='104875687150059' target='104875996613143'  weight="25"  id2="661388"  type="5" />
+<edge id='104889670014635' source='104875687150059' target='104875634869005'  weight="25"  id2="661389"  type="5" />
+<edge id='104885706357240' source='104876031442798' target='104875634869005'  weight="50"  id2="462474"  type="5" />
+<edge id='104888524283625' source='104874901369736' target='104874858869643'  weight="25"  id2="603667"  type="5" />
+<edge id='104906278501561' source='104874901369736' target='104875687150059'  weight="25"  id2="1700121"  type="5" />
+<edge id='104887520194602' source='104875740540682' target='104875634869005'  weight="35"  id2="554913"  type="5" />
+<edge id='104887520217642' source='104875740540682' target='104875996613143'  weight="25"  id2="554915"  type="5" />
+<edge id='104887520254213' source='104875740540682' target='104875264996924'  weight="25"  id2="554918"  type="5" />
+<edge id='104887520266282' source='104875740540682' target='104875550447009'  weight="25"  id2="554919"  type="5" />
+<edge id='104906278182295' source='104875740540682' target='104875687150059'  weight="27"  id2="1700101"  type="5" />
+<edge id='104881797764696' source='104874520268476' target='104875634869005'  weight="130"  id2="254289"  type="5" />
+<edge id='104881818768619' source='104874520268476' target='104874901369736'  weight="110"  id2="256317"  type="5" />
+<edge id='104881998803756' source='104874520268476' target='104874857621469'  weight="100"  id2="265887"  type="5" />
+<edge id='104882130071599' source='104874520268476' target='104875740540682'  weight="50"  id2="271639"  type="5" />
+<edge id='104884023897433' source='104874520268476' target='104875173662976'  weight="50"  id2="373149"  type="5" />
+<edge id='104884183946058' source='104874520268476' target='104875689144285'  weight="50"  id2="381673"  type="5" />
+<edge id='104879875602784' source='104874857621469' target='104874858869643'  weight="50"  id2="151447"  type="5" />
+<edge id='104879875626189' source='104874857621469' target='104875689144285'  weight="140"  id2="151449"  type="5" />
+<edge id='104879875648132' source='104874857621469' target='104875634869005'  weight="170"  id2="151451"  type="5" />
+<edge id='104880572181258' source='104874857621469' target='104875996613143'  weight="80"  id2="189321"  type="5" />
+<edge id='104880572206126' source='104874857621469' target='104875740540682'  weight="60"  id2="189323"  type="5" />
+<edge id='104880634243638' source='104874857621469' target='104874738755643'  weight="80"  id2="193045"  type="5" />
+<edge id='104880634267775' source='104874857621469' target='104875280425937'  weight="80"  id2="193047"  type="5" />
+<edge id='104880637166041' source='104874857621469' target='104874909055169'  weight="50"  id2="193309"  type="5" />
+<edge id='104884870410043' source='104874857621469' target='104874835155796'  weight="50"  id2="418667"  type="5" />
+<edge id='104884870424671' source='104874857621469' target='104874901369736'  weight="70"  id2="418668"  type="5" />
+<edge id='104884870436374' source='104874857621469' target='104875194533779'  weight="70"  id2="418669"  type="5" />
+<edge id='104885187178585' source='104874857621469' target='104875287052999'  weight="50"  id2="434504"  type="5" />
+<edge id='104885187203453' source='104874857621469' target='104874760830736'  weight="50"  id2="434506"  type="5" />
+<edge id='104879426711000' source='104874835155796' target='104875634869005'  weight="70"  id2="127052"  type="5" />
+<edge id='104879426724166' source='104874835155796' target='104874857621469'  weight="60"  id2="127053"  type="5" />
+<edge id='104879370607893' source='104876051286683' target='104875634869005'  weight="50"  id2="124105"  type="5" />
+<edge id='104878539200641' source='104874909055169' target='104875634869005'  weight="80"  id2="80512"  type="5" />
+<edge id='104878539224047' source='104874909055169' target='104874861225192'  weight="50"  id2="80514"  type="5" />
+<edge id='104884528911341' source='104874909055169' target='104874857621469'  weight="50"  id2="399057"  type="5" />
+<edge id='104884913257197' source='104874909055169' target='104875740540682'  weight="50"  id2="420236"  type="5" />
+<edge id='104906278256535' source='104874909055169' target='104875687150059'  weight="25"  id2="1700107"  type="5" />
+<edge id='104885251725610' source='104875634869005' target='104875740540682'  weight="60"  id2="436978"  type="5" />
+<edge id='104885251740970' source='104875634869005' target='104874901369736'  weight="50"  id2="436979"  type="5" />
+<edge id='104887462534660' source='104875634869005' target='104874857621469'  weight="25"  id2="553453"  type="5" />
+<edge id='104887520288590' source='104875634869005' target='104875687150059'  weight="25"  id2="554921"  type="5" />
+<edge id='104887520300658' source='104875634869005' target='104875996613143'  weight="25"  id2="554922"  type="5" />
+<edge id='104887520311630' source='104875634869005' target='104875703175913'  weight="25"  id2="554923"  type="5" />
+<edge id='104887520324064' source='104875634869005' target='104874861225192'  weight="25"  id2="554924"  type="5" />
+<edge id='104887520337961' source='104875634869005' target='104875173662976'  weight="25"  id2="554925"  type="5" />
+<edge id='104887520350030' source='104875634869005' target='104874909055169'  weight="25"  id2="554926"  type="5" />
+<edge id='104887520363927' source='104875634869005' target='104874522670105'  weight="25"  id2="554927"  type="5" />
+<edge id='104887520375995' source='104875634869005' target='104875173703204'  weight="25"  id2="554928"  type="5" />
+<edge id='104887520387698' source='104875634869005' target='104875537176793'  weight="25"  id2="554929"  type="5" />
+<edge id='104887520400498' source='104875634869005' target='104875280425937'  weight="25"  id2="554930"  type="5" />
+<edge id='104887520412201' source='104875634869005' target='104875689144285'  weight="25"  id2="554931"  type="5" />
+<edge id='104887520425000' source='104875634869005' target='104875264996924'  weight="25"  id2="554932"  type="5" />
+<edge id='104887520435972' source='104875634869005' target='104874760830736'  weight="25"  id2="554933"  type="5" />
+<edge id='104887520448772' source='104875634869005' target='104875287052999'  weight="25"  id2="554934"  type="5" />
+<edge id='104887520460840' source='104875634869005' target='104874738755643'  weight="25"  id2="554935"  type="5" />
+<edge id='104887520472909' source='104875634869005' target='104875590555713'  weight="25"  id2="554936"  type="5" />
+<edge id='104887520486440' source='104875634869005' target='104876031442798'  weight="25"  id2="554937"  type="5" />
+<edge id='104887520498509' source='104875634869005' target='104874858869643'  weight="25"  id2="554938"  type="5" />
+<edge id='104887520509846' source='104875634869005' target='104875550447009'  weight="25"  id2="554939"  type="5" />
+<edge id='104888192241498' source='104875634869005' target='104874919337520'  weight="25"  id2="585233"  type="5" />
+<edge id='104888192254298' source='104875634869005' target='104874806512887'  weight="25"  id2="585234"  type="5" />
+<edge id='104906990472843' source='104875634869005' target='104875194533779'  weight="25"  id2="1737267"  type="5" />
+<edge id='104906990486374' source='104875634869005' target='104874861523613'  weight="25"  id2="1737268"  type="5" />
+</graph>
+</graphml>
